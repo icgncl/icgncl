@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icgncl
-- 👀 I’m interested in Data Science, k8s, and Spark
-- 🌱 I’m currently learning Spark
+- 👀 I’m interested in Data Science, K8s, and Big Data
+- 🌱 I’m currently learning Apache Spark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
