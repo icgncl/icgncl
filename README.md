@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, K8s, and Big Data
 - 🌱 I’m currently learning Apache Spark
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me icgencel.com
 
 <!---
 icgncl/icgncl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
